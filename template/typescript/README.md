@@ -2,7 +2,7 @@
 
 > {{description}}
 
-[![NPM](https://img.shields.io/npm/v/{{name}}.svg)](https://www.npmjs.com/package/{{name}}) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/{{name}}.svg)](https://www.npmjs.com/package/{{name}}) [![JavaScript Style Guide](https://img.shields.io/static/v1?label=code%20style&message=airbnb&color=green)](https://www.npmjs.com/package/eslint-config-airbnb-typescript)
 
 ## Install
 

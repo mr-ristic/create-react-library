@@ -1,28 +1,11 @@
 # create-react-library
 
+This is a frok of [create-react-library](https://github.com/transitive-bullshit/create-react-library) with updated typscript template with react 17, reverted to microbundle package and modified airbnb code style.
+
+[mr-ristic] (https://github.com/mr-ristic)
+
+
 > CLI for creating reusable, modern React libraries using Rollup and create-react-app.
-
-[![NPM](https://img.shields.io/npm/v/create-react-library.svg)](https://www.npmjs.com/package/create-react-library) [![Build Status](https://travis-ci.com/transitive-bullshit/create-react-library.svg?branch=master)](https://travis-ci.com/transitive-bullshit/create-react-library) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
----
-
-<div align="center">
-	<a href="https://saasify.sh" title="Saasify">
-		<div>
-      <img src="https://docs.saasify.sh/_media/logo.png" alt="Saasify Logo" width="200" />
-		</div>
-    <sup>This project is sponsored by Saasify.</sup><br />
-		<sup><b>The easiest way to monetize your APIs</b></sup>
-	</a>
-</div>
-
----
-
-## Intro
-
-<p align="center">
-  <img width="600" src="https://cdn.rawgit.com/transitive-bullshit/create-react-library/master/media/demo.svg">
-</p>
 
 ## Features
 
