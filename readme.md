@@ -29,22 +29,14 @@ This is a frok of [create-react-library](https://github.com/transitive-bullshit/
 This package requires `node >= 10`.
 
 ```bash
-npm install -g create-react-library
+git clone git@github.com:mr-ristic/create-react-library.git
+cd create-react-library
+npm i 
+// call from the place you want the package installed
+node ./create-react-library/lib/cli.js
 ```
-
-## Usage with npx
-
-```bash
-npx create-react-library
-```
-
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
 
 ## Creating a New Module
-
-```bash
-create-react-library
-```
 
 Answer some basic prompts about your module, and then the CLI will perform the following steps:
 
