@@ -1,7 +1,5 @@
-import React from 'react'
-
-import { ExampleComponent } from '{{name}}'
-import '{{name}}/dist/index.css'
+import { ExampleComponent } from 'ui-kit'
+import 'ui-kit/dist/index.css'
 
 const App = () => {
   return <ExampleComponent text="Create React Library Example 😄" />
